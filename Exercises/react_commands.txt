@@ -1,0 +1,12 @@
+C:\Users\zh722e>node --version
+v10.15.3
+
+C:\Users\zh722e>npm --version
+6.4.1
+====================================================================================================================
+npx create-react-app my-beautiful-react-app
+cd my-beautiful-react-app
+npm start
+
+Note
+npx on the first line is not a typo — it’s a package runner tool that comes with npm 5.2+.
